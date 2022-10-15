@@ -1,0 +1,11 @@
+c:\temp\RocketLaunch\RocketLaunch\bin\Debug\RocketLaunch.exe.config
+c:\temp\RocketLaunch\RocketLaunch\bin\Debug\RocketLaunch.exe
+c:\temp\RocketLaunch\RocketLaunch\bin\Debug\RocketLaunch.pdb
+c:\temp\RocketLaunch\RocketLaunch\bin\Debug\RocketLaunch.xml
+c:\temp\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.Form1.resources
+c:\temp\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.Resources.resources
+c:\temp\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.vbproj.GenerateResource.Cache
+c:\temp\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.exe
+c:\temp\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.xml
+c:\temp\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.pdb
+c:\temp\RocketLaunch\RocketLaunch\bin\Debug\rocket.wav
