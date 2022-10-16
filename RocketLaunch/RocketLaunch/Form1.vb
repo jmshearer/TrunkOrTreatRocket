@@ -18,6 +18,7 @@
 
     Private Sub Fog(enable As Boolean)
         logStatus("Fog " & IIf(enable, "ON", "OFF"))
+     
     End Sub
 
     Private Sub Lights(enable As Boolean)

@@ -20,3 +20,16 @@ C:\Users\michael\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\bin\Debug\Rock
 C:\Users\michael\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.Form1.resources
 C:\Users\michael\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.Resources.resources
 C:\Users\michael\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.vbproj.GenerateResource.Cache
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\bin\Debug\RocketLaunch.exe.config
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.exe
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.xml
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.pdb
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\bin\Debug\relay.exe
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\bin\Debug\usb_relay_device.dll
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\bin\Debug\rocket.wav
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\bin\Debug\RocketLaunch.exe
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\bin\Debug\RocketLaunch.pdb
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\bin\Debug\RocketLaunch.xml
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.Form1.resources
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.Resources.resources
+C:\Users\micha\dev\TrunkOrTreatRocket\RocketLaunch\RocketLaunch\obj\Debug\RocketLaunch.vbproj.GenerateResource.Cache
