@@ -18,11 +18,23 @@
 
     Private Sub Fog(enable As Boolean)
         logStatus("Fog " & IIf(enable, "ON", "OFF"))
+        If enable Then
+            Shell("relay.exe BITFT open 2", AppWinStyle.Hide, True)
+        Else
+            Shell("relay.exe BITFT close 2", AppWinStyle.Hide, True)
+        End If
+
      
     End Sub
 
     Private Sub Lights(enable As Boolean)
         logStatus("Flame " & IIf(enable, "ON", "OFF"))
+        If enable Then
+            Shell("relay.exe BITFT open 1", AppWinStyle.Hide, True)
+        Else
+            Shell("relay.exe BITFT close 1", AppWinStyle.Hide, True)
+        End If
+
     End Sub
 
 
@@ -55,7 +67,7 @@
                 Me.Label1.Text = seconds
             End If
 
-            If secondsUntilLaunch < 0 And (secondsUntilLaunch Mod 30) = -5 And cbEnableFuelVent.Checked Then
+            If secondsUntilLaunch < -10 And (secondsUntilLaunch Mod 30) = -5 And cbEnableFuelVent.Checked Then
                 logStatus("Vent Fuel")
                 Fog(True)
                 System.Threading.Thread.Sleep(250)
