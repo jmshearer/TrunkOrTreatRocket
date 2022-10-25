@@ -1,4 +1,4 @@
-# Truck Or Treat Rocket Launch
+# Truck-Or-Treat Rocket Launch
 As seen at [Annville Church of the Brethren](https://www.annvillecob.org) Trunk or Treat in 2022.
 
 ## Features
