@@ -11,3 +11,7 @@ As seen at [Annville Church of the Brethren](https://www.annvillecob.org) Trunk 
 Please feel free to puruse the repo.   It's doubtful that you would want to recreate the project in its entirety, but there are probably some useful pieces for other projects.
 
 ## Materials
+
+- [RGB Light String, 50pcs](https://www.amazon.com/gp/product/B076VBSB3B/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Elegoo Uno R3 Board](https://www.amazon.com/gp/product/B01EWOE0UU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (Arduino Uno Clone)
+- [2-channel USB Relay Module](https://www.amazon.com/gp/product/B07CFQMDJ3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
