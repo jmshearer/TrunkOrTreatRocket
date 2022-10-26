@@ -20,5 +20,7 @@ Please feel free to puruse the repo.   It's doubtful that you would want to recr
 - Relay Control
   - [2-channel USB Relay Module](https://www.amazon.com/gp/product/B07CFQMDJ3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
   - [USB Relay Development Library](https://www.amazon.com/clouddrive/share/mI90aY9Ju2XDZhrUX9ZHzz6yAYpOvELp0fKcZxrrsNv)
+- Fog Machine
+  - [FogStorm 1200HD Fog Machine](https://www.adj.com/fog-storm-1200hd)
 - Rocket
   - [Chemtainer Open-Top Tank](https://chemtainer.com/) - Ours was originally a factory-second from their Hummelstown, PA factory
