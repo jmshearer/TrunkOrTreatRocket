@@ -1,6 +1,9 @@
 # Truck-Or-Treat Rocket Launch
 As seen at [Annville Church of the Brethren](https://www.annvillecob.org) Trunk or Treat in 2022.
 
+![Rocket](/Photos/Astronaut.jpg)
+[![Watch the video](https://img.youtube.com/vi/UP1z7mMJEf8/hqdefault.jpg)](https://youtu.be/UP1z7mMJEf8)
+
 ## Features
 
 - Flame effect (Arduino Uno + addressible LEDs)
