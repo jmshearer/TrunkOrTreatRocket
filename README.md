@@ -1,8 +1,9 @@
 # Truck-Or-Treat Rocket Launch
 As seen at [Annville Church of the Brethren](https://www.annvillecob.org) Trunk or Treat in 2022.
 
-![Rocket](/Photos/Astronaut.jpg)
 [![Watch the video](https://img.youtube.com/vi/UP1z7mMJEf8/hqdefault.jpg)](https://youtu.be/UP1z7mMJEf8)
+
+[Watch on YouTube](https://youtu.be/UP1z7mMJEf8)
 
 ## Features
 
@@ -30,3 +31,4 @@ Please feel free to puruse the repo.   It's doubtful that you would want to recr
 
 ## Related Projects
  - [PROtractor](https://github.com/jmshearer/PROtractor) - The PROtractor given out to some at Trunk-Or-Treat
+
