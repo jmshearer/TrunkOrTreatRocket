@@ -82,7 +82,7 @@
                     Case 0
                         logStatus("Auto Initiate Launch")
                         StartLaunch()
-                    Case 5
+                    Case 10
                         logStatus("Auto Stop Fog")
                         Fog(False)
                     Case 20

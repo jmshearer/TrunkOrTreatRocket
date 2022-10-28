@@ -180,7 +180,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Panel1)
         Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "ACOB Rocket"
         Me.Panel1.ResumeLayout(False)
         Me.Panel1.PerformLayout()
         CType(Me.nudLaunchTime, System.ComponentModel.ISupportInitialize).EndInit()
